@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Mother",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-28T18:16:24.462103Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Mother Told Me (In Old Norse)",
+      "artist": "Colm R. McGuinness",
+      "has_synced": true,
+      "path": "select/01_My_Mother_Told_Me_(In_Old_Norse)_Colm_R._McGuinness.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Mother We Share",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/02_The_Mother_We_Share_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Mother We Share (Errors remix)",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/03_The_Mother_We_Share_(Errors_remix)_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let Old Mother Nature Have Her Way",
+      "artist": "Carl Smith",
+      "has_synced": true,
+      "path": "select/04_Let_Old_Mother_Nature_Have_Her_Way_Carl_Smith.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mother Country Music",
+      "artist": "Vern Gosdin",
+      "has_synced": false,
+      "path": "select/05_Mother_Country_Music_Vern_Gosdin.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Up Against the Wall Redneck Mother",
+      "artist": "Jerry Jeff Walker",
+      "has_synced": true,
+      "path": "select/06_Up_Against_the_Wall_Redneck_Mother_Jerry_Jeff_Walker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mother",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/07_Mother_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pray To God For Your Mother",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/08_Pray_To_God_For_Your_Mother_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pray to God for Your Mother (Instrumental)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/09_Pray_to_God_for_Your_Mother_(Instrumental)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tie Your Mother Down - Live",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/10_Tie_Your_Mother_Down_-_Live_Queen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tie Your Mother Down",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/11_Tie_Your_Mother_Down_Queen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mother",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/12_Mother_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Madre, Mother & Mére",
+      "artist": "Lucien-N-Luciano",
+      "has_synced": true,
+      "path": "select/13_Madre,_Mother_&_Mére_Lucien-N-Luciano.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mother And Father",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/14_Mother_And_Father_Madonna.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mother Of God",
+      "artist": "MIKE feat. V. Bonema",
+      "has_synced": false,
+      "path": "select/15_Mother_Of_God_MIKE_feat._V._Bonema.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mother Of God (feat. V. Bonema)",
+      "artist": "MIKE",
+      "has_synced": false,
+      "path": "select/16_Mother_Of_God_(feat._V._Bonema)_MIKE.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mother and Father",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/17_Mother_and_Father_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Mother We Just Can't Get Enough",
+      "artist": "New Radicals",
+      "has_synced": true,
+      "path": "select/18_Mother_We_Just_Can't_Get_Enough_New_Radicals.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Never Turn Your Back On Mother Earth",
+      "artist": "Neko Case",
+      "has_synced": false,
+      "path": "select/19_Never_Turn_Your_Back_On_Mother_Earth_Neko_Case.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mother",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Mother_Porter_Robinson.txt"
+    }
+  ]
+}
